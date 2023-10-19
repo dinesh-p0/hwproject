@@ -53,7 +53,7 @@ const Abou1 = () => {
              </div>
             </div>
         </div>
-        <div className="flex items-center w-[48px] px-8 pt-[20rem] justify-center">
+        <div className="flex items-center w-[48px] px-12 pt-[20rem] justify-center ">
             <p className="-rotate-90 text-[rgb(140,254,62)] text-6xl lg:text-8xl  font-bold font-['Google Sans']">SPEAKER</p>
         </div>
     </div>
