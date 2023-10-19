@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="overflow-hidden">
     <Mobileab />{/*about for sm devices */}
-    {/* <Speaker /> */}
+    <Speaker /> 
     <Abou />
     <Abou2 /> {/*All abou files are for md and lg devices */}
     <Abou1 />
