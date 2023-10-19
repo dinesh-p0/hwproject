@@ -6,10 +6,10 @@ const Scrolll = () => {
      <div className="text-center h-auto flex flex-col items-center">
         <div className='flex flex-col md:hidden items-center gap-1'> 
             <div className='flex flex-col items-center'>
-                <p className='text-limee  text-center  text-[50px] md:[75px] lg:[100px] font-bold'>OUR</p>
+                <p className='text-limee  text-center  text-[50px]  font-bold'>OUR</p>
             </div>
             <div className='pb-16 flex flex-col items-center'>
-                <p className='text-limee   text-center  text-[50px] md:[75px] lg:[100px] font-bold'>PARTNERS</p>
+                <p className='text-limee   text-center  text-[50px] font-bold'>PARTNERS</p>
             </div>
         </div>
         <div className='hidden md:flex pb-[40px]'>
