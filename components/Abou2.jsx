@@ -46,7 +46,7 @@ const Abou2 = () => {
              
              <div className="flex flex-col justify-center items-center px-0 p-8">
                 {/* <img className="w-96 h-96 rounded-full bg-[#b7b7b7]" src="/dinesh.png" /> */}
-                <img className=' overflow-hidden  w-100 h-80 ' src="/assets/sherlock.png" alt="" />
+                <img className=' overflow-hidden  w-100 h-80 ' src="/assets/Sherlock.png" alt="" />
                 <div className="w-96 h-14 p-4 text-white text-center text-3xl lg:-4xl font-bold font-['Google Sans']">Sri Nikhil</div> 
                 <div className="text-center  z-20 relative">
                     <span className="text-limee p-0 text-xl lg:text-2xl font-bold font-['Google Sans'] leading-10">Design Lead, GDSC MLRIT<br/></span>
