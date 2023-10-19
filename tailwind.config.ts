@@ -20,17 +20,18 @@ const config: Config = {
       },
       animation: {
         // 'spin-slow': 'spin 1s ',
-        'bounce-slow':'bounce 2s','infinite-scroll': 'infinite-scroll 25s linear infinite',
-
+        'bounce-slow':'bounce 2s','infinite-scroll': 'infinite-scroll 15s linear infinite',
       },
       keyframes: {
         'infinite-scroll': {
-          from: { transform: 'translateX(0)' },
+          from: { transform: 'translateX(100%)' },
           to: { transform: 'translateX(-100%)' },
         },
       },
+      
       colors: {
         primary: "#ECEEFF",
+        "limee":"rgba(140,254,62)",
         "coral-red": "#FF6452",
         "slate-gray": "#6D6D6D",
         "pale-blue": "#F5F6FF",
