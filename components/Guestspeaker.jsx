@@ -5,7 +5,7 @@ const Guestspeaker = () => {
     <div className='flex flex-col justify-center items-center p-8 bg-black min-h-screen'>
      <div className='flex flex-col'> 
         <div className='flex flex-col justify-center'>
-            <p className='text-limee  text-center text-[50px] md:text-[80px] lg:text-[100px] font-bold'>Guest Speaker</p>
+            <p className=' text-limee  text-center text-[50px] md:text-[80px] lg:text-[100px] font-bold'>Guest Speaker</p>
         
         </div>
         <div className='flex flex-col rounded-full justify-center items-center'>
