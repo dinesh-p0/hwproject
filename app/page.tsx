@@ -4,7 +4,6 @@ import Abou2 from "@/components/Abou2"
 import Mobileab from "@/components/Mobileab"
 import Speaker from "@/components/Speaker"
 import Guestspeaker from "@/components/Guestspeaker"
-import Partners from "@/components/Partners"
 import Scrolll from "@/components/Scrolll"
 export default function Home() {
   return (
