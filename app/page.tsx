@@ -7,7 +7,7 @@ import Guestspeaker from "@/components/Guestspeaker"
 import Scrolll from "@/components/Scrolll"
 export default function Home() {
   return (
-    <div className="overflow-hidden">
+    <div className="overflow-hidden ">
     <Mobileab />{/*about for sm devices */}
     <Speaker /> 
     <Abou />
