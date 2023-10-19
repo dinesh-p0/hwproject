@@ -3,7 +3,7 @@ import React from 'react'
 const Speaker = () => {
   return (
     <div className='lg:hidden md:hidden w-full px-4 flex flex-col gap-8 py-4'>
-        <div className="flex flex-col justify-center items-center p-8 py-24 relative shadow-[2px_2px_5px_5px_rgba(113,122,135)]  rounded-xl ">
+        <div className="flex flex-col justify-center items-center p-8 py-24 relative   rounded-xl ">
                 {/* <img className="w-96 h-96 rounded-full bg-[#b7b7b7]" src="/dinesh.png" /> */}
                 <img className=' overflow-hidden bg-[#b7b7b7] h-50 w-60' src="/assets/Dine.jpg" alt="" />
                 <div className="w-96 h-14 p-4 text-slate-700 text-center md:text-3xl text-4xl font-bold font-['Google Sans']">Dinesh Nalam</div> 
@@ -16,7 +16,7 @@ const Speaker = () => {
                     <p className="-rotate-90  text-slate-700  text-5xl opacity-60 font-bold font-['Google Sans']">STARTUPS</p>
                 </div>
         </div>
-        <div className="flex flex-col justify-center items-center p-8 py-24 relative shadow-[2px_2px_5px_5px_rgba(113,122,135)] rounded-xl">
+        <div className="flex flex-col justify-center items-center p-8 py-24 relative  rounded-xl">
                 {/* <img className="w-96 h-96 rounded-full bg-[#b7b7b7]" src="/dinesh.png" /> */}
                 <img className=' overflow-hidden bg-[#b7b7b7] h-50 w-60' src="/assets/Sherlock.jpg" alt="" />
                 <div className="w-96 h-14 p-4 text-slate-700 text-center md:text-3xl text-4xl font-bold font-['Google Sans']">Sri Nikhil</div> 
@@ -29,7 +29,7 @@ const Speaker = () => {
                     <p className="-rotate-90  text-slate-700  text-5xl opacity-60 font-bold font-['Google Sans']">DESIGN</p>
                 </div>
         </div>
-        <div className="flex flex-col justify-center items-center p-8 py-24 relative shadow-[2px_2px_5px_5px_rgba(113,122,135)] rounded-xl">
+        <div className="flex flex-col justify-center items-center p-8 py-24 relative rounded-xl">
                 {/* <img className="w-96 h-96 rounded-full bg-[#b7b7b7]" src="/dinesh.png" /> */}
                 <img className=' overflow-hidden  h-60 w-70' src="/assets/Reaper.png" alt="" />
                 <div className="w-96 h-14 p-4  text-slate-700 text-center md:text-3xl text-4xl font-bold font-['Google Sans']">Adithya Vardhan</div> 
