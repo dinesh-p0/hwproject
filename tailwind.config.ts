@@ -17,6 +17,7 @@ const config: Config = {
         palanquin: ["Palanquin", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
         poppins: ["Poppins", "sans-serif"],
+        londrina:['Londrina Shadow', "sans-serif"],
       },
       animation: {
         // 'spin-slow': 'spin 1s ',
