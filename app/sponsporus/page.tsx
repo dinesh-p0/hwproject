@@ -39,7 +39,7 @@ const page = () => {
                     BECOME A SPONSOR
                 </button>
             </a>
-            <a href="mailto:info@mailgo.dev" className='text-white'>info@mailgo.dev</a>
+{/*             <a href="mailto:info@mailgo.dev" className='text-white'>info@mailgo.dev</a> */}
         </div>
     </div>
   )
